@@ -1,0 +1,13 @@
+baseURL = 'https://clgithub.github.io/'
+# languageCode = 'zh-cn'
+title = 'L'
+theme = "anubis"
+
+# 自动检测语言并限制摘要字数
+hasCJKLanguage = true
+
+# 自定义发布目录
+publishDir="CLgithub.github.io"
+
+params.dateFormat="2006-01-02"
+params.style = "auto"
