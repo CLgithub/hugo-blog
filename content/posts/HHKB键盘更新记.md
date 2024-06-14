@@ -2,6 +2,7 @@
 title: "HHKB键盘更新记"
 date: 2024-06-13T21:18:38+08:00
 draft: true
+summary: "故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多[更新](https://support.apple.com/zh-cn/111975)，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了<b>蝴蝶键盘</b>，没错，就是蝴蝶键盘..."
 ---
 
 前沿：故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多[更新](https://support.apple.com/zh-cn/111975)，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了<b>蝴蝶键盘</b>，没错，就是蝴蝶键盘。蝴蝶键盘相比于传统剪刀脚键盘有众多优缺点，不必细说，单说最让人诟病的一点，在使用一定时间后，由于灰尘的落入，蝴蝶键盘会出现双击或不灵的情况。我的MacBook Pro (15-inch, 2017)也未能幸免，在正常使用一年时间后，部分按键也出现了问题，尝试过各种清理，都无济于事。大量用户出现键盘故障，甚至还有[Unshaky](https://github.com/aahung/Unshaky)这样的软件，来尽可能的降低蝴蝶键盘故障带来的不变，虽然苹果之后推出了对应的[维修更换计划](https://support.apple.com/zh-cn/keyboard-service-program-for-mac-notebooks)，但那是另外的故事了。
