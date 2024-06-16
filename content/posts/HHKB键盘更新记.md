@@ -5,7 +5,7 @@ draft: true
 summary: "故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多[更新](https://support.apple.com/zh-cn/111975)，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了<b>蝴蝶键盘</b>，没错，就是蝴蝶键盘..."
 ---
 
-前沿：故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多[更新](https://support.apple.com/zh-cn/111975)，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了<b>蝴蝶键盘</b>，没错，就是蝴蝶键盘。蝴蝶键盘相比于传统剪刀脚键盘有众多优缺点，不必细说，单说最让人诟病的一点，在使用一定时间后，由于灰尘的落入，蝴蝶键盘会出现双击或不灵的情况。我的MacBook Pro (15-inch, 2017)也未能幸免，在正常使用一年时间后，部分按键也出现了问题，尝试过各种清理，都无济于事。大量用户出现键盘故障，甚至还有[Unshaky](https://github.com/aahung/Unshaky)这样的软件，来尽可能的降低蝴蝶键盘故障带来的不变，虽然苹果之后推出了对应的[维修更换计划](https://support.apple.com/zh-cn/keyboard-service-program-for-mac-notebooks)，但那是另外的故事了。
+前沿：故事从2016年Apple发布新一代MacBook Pro开始讲起，2016年，MacBook Pro迎来外观诸多[更新](https://support.apple.com/zh-cn/111975)，砍掉了多种接口，只保留4个雷电3接口，拥有更大的触控板，引入了TouchBar，还引入了<b>蝴蝶键盘</b>，没错，就是蝴蝶键盘。蝴蝶键盘相比于传统剪刀脚键盘有众多优缺点，不必细说，单说最让人诟病的一点，在使用一定时间后，由于灰尘的落入，蝴蝶键盘会出现双击或不灵的情况。我的MacBook Pro (15-inch, 2017)也未能幸免，在正常使用一年时间后，部分按键也出现了问题，尝试过各种清理，都无济于事。大量用户出现键盘故障，甚至还有[Unshaky](https://github.com/aahung/Unshaky)这样的软件，来尽可能的降低蝴蝶键盘故障带来的不便，虽然苹果之后推出了对应的[维修更换计划](https://support.apple.com/zh-cn/keyboard-service-program-for-mac-notebooks)，但那是另外的故事了。
 
 购买：于是在2018年，购买了我这块HHKB-BT，HHKB蓝牙版本，无刻印白色版（之后配了几个彩色键帽）
 ![](../../images/6_1.png)
@@ -37,3 +37,4 @@ Apple设计：Apple之所以会采用蝴蝶键盘，无非是蝴蝶键盘整体�
 乔纳森离开苹果，这一代的设计完全放飞自我，完全是退步，MacBookPro厚重感塑料感太强，对着屏幕的硕大出风口，还有那底部和精致豪不沾边的钢印，还有让人难以接受的刘海屏……
 
 虽然在设计上放飞了自我，但Apple的思想依然还在，2024年WWDC，AI（Artificial Intelligence）人工智能，在Apple这里变成了（Apple Intelligence），整个构建思路上也确实体现了Apple的思想的独特之处，Apple理解的AI技术，是要用于服务人的，其实Apple并不在乎用了什么技术，更在乎的是这个技术是否能给人带来更美好的体验，是否能帮助做出体验更好的功能，之前的touchID，再到后来的faceID、空间音频等等，Apple一直强调的是能否带来更好体验。这次AI革命也是，Apple将AI集成进系统级别，希望AI能在更深的层面里，给应用带来好的功能，给人带来更美好的体验，而非单纯的做一个AI工具（现在各家都在做的语言大模型）。
+![](../../images/6_8.JPG)
