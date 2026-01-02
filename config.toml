@@ -18,4 +18,7 @@ publishDir="CLgithub.github.io"
   description = "记录日常有趣事物，不管怎样，只是想把生命中有趣的事物、或是感悟或是思考记录下来，只有这种简单的文本格式的页面才是属于自己个人的，类型不限，可能有文字、视频、音频……，一个很早就有的想法，这是一个开始。"
   themeColor = "theme-base-0d"
   
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
